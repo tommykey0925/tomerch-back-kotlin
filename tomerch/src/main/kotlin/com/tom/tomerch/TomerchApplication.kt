@@ -9,4 +9,3 @@ class TomerchApplication
 fun main(args: Array<String>) {
 	runApplication<TomerchApplication>(*args)
 }
-

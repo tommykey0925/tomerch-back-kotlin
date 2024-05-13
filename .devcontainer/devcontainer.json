@@ -24,8 +24,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"fwcd.kotlin",
-				"vmware.vscode-boot-dev-pack",
+				"mathiasfrohlich.Kotlin",
+				"vscjava.vscode-spring-boot-dashboard",
+				"vmware.vscode-spring-boot",
 				"eamodio.gitlens"
 			]
 		}

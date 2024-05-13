@@ -10,7 +10,7 @@
             "name": "Kotlin Launch",
             "projectRoot": "/workspaces/tomerch/tomerch",
             "mainClass": "/workspaces/tomerch/tomerch/src/main/kotlin/com/tom/tomerch/TomerchApplication.kt",
-            "preLaunchTask": "build"
+            // "preLaunchTask": "build"
         }
     ]
 }

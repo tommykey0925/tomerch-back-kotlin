@@ -1,8 +1,8 @@
-package com.tom.tomerch.dao
+package com.tom.tomerch.dao.fetchItems
 
 data class ItemList(
-    var objectId: String?,
-    var categoryName: String?,
-    var itemName: String?,
-    var price: Int?
+    val objectId: String,
+    val categoryName: String,
+    val itemName: String,
+    val price: Int
 )

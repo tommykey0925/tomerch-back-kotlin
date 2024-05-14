@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.RestController
 import org.springframework.transaction.annotation.Transactional
-import com.tom.tomerch.dao.*
+import com.tom.tomerch.dao.fetchItems.*
 
 @RestController
 class GetController(private val fetchItems: FetchItems) {

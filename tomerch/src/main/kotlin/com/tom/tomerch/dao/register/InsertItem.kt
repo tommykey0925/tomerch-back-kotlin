@@ -3,8 +3,8 @@ package com.tom.tomerch.dao.register
 import org.apache.ibatis.annotations.Mapper
 
 @Mapper
-interface FetchItemDetail {
+interface InsertItem {
 
-    fun chooseItem(objectId: String): ItemDetail
+    fun insertItem(item: Item): Int
 
 }
